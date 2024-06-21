@@ -1,0 +1,18 @@
+
+
+.stat-container{
+    padding: 20px;  
+}
+span{
+    font-weight: normal;
+}
+.close-btn{
+    height:20px;
+    width:20px;
+    border-radius:50% ;
+    cursor: pointer;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
